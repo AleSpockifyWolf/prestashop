@@ -1,0 +1,8 @@
+id;Referencia;"Nuevo cliente";Entrega;Cliente;Total;Pago;Estatus;Fecha
+7;SGHMYEOVK;1;"Estados Unidos";"o. hjnj";USD73.95;"Pago por transferencia bancaria";"En espera de pago por transferencia bancaria";"2018-11-29 13:47:11"
+6;YOYTZAOYJ;1;México;"J. Ceron";$3,488.12;"Pago por transferencia bancaria";"En espera de pago por transferencia bancaria";"2018-11-29 13:10:18"
+5;KHWLILZLL;0;"Estados Unidos";"J. DOE";$20.90;"Bank wire";"En espera de pago por transferencia bancaria";"2018-11-21 15:59:09"
+4;FFATNOMMJ;0;"Estados Unidos";"J. DOE";$14.90;"Payment by check";"Pago por cheque pendiente";"2018-11-21 15:59:09"
+3;UOYEVOLI;0;"Estados Unidos";"J. DOE";$14.90;"Payment by check";"Error en pago";"2018-11-21 15:59:09"
+2;OHSATSERP;0;"Estados Unidos";"J. DOE";$69.90;"Payment by check";"Pago por cheque pendiente";"2018-11-21 15:59:09"
+1;XKBKNABJK;1;"Estados Unidos";"J. DOE";$61.80;"Payment by check";Cancelado;"2018-11-21 15:59:09"
